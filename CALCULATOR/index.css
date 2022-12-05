@@ -1,0 +1,39 @@
+table, th, td {
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    background-color: black;
+  }
+button{
+    justify-content: space-between;
+    padding: 20px;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: palevioletred;
+}
+input{
+    width:78% ;
+    background-color:antiquewhite;
+    padding: 21px;
+    border-radius: 10px;
+    margin: 2px;
+    font-family: sans-serif;
+    border:2px ;
+}
+
+
+caption
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight:16px ;
+    color:white(0, 0, 0);
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    
+  }
